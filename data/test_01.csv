@@ -1,0 +1,10 @@
+this is,just a,normal row
+"this,cell,contains,commas","this""one""contains""quotes""","this
+one
+contains
+newlines"
+"this,cell""has
+everything","this""cell
+has,everything","this
+cell""has,everything"
+and now,we're back,to normal
